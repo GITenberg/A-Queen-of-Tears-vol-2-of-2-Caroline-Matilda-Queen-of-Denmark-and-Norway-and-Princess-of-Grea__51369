@@ -1,0 +1,26 @@
+_repo: A-Queen-of-Tears-vol-2-of-2-Caroline-Matilda-Queen-of-Denmark-and-Norway-and-Princess-of-Grea__51369
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilkins, W. H. (William Henry)
+    alias: Wilkins, William Henry
+    birthdate: 1860
+    deathdate: 1905
+    gutenberg_agent_id: '2026'
+    url: http://www.gutenberg.org/2009/agents/2026
+description: ''
+gutenberg_issued: '2016-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51369'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Caroline Mathilde, Queen, consort of Christian VII, King of Denmark, 1751-1775'
+- !lcc 'DL'
+- GITenberg
+title: "A Queen of Tears, vol. 2 of 2\r\nCaroline Matilda, Queen of Denmark and Norway\
+  \ and Princess of Great Britain and Ireland"
+url: http://www.gutenberg.org/ebooks/51369
